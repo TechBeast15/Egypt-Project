@@ -194,6 +194,8 @@ body {
   color: aliceblue;
   border-radius: 10px;
   z-index: 2;
+
+  user-select: none;
 }
 
 .buttonBox div {
