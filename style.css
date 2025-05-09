@@ -38,9 +38,9 @@ body {
 
 .gateImage {
   width: 110%;
-  height: 150%;
+  height: 165%;
   position: absolute;
-  top: -30%;
+  top: -40%;
   left: -5%;
   z-index: -1;
   transition: transform 10s ease-in-out, opacity 2s ease;
